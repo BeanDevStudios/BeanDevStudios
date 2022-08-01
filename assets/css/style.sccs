@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.header{
+.h1{
     text-align:center;
 }
 
-.fork{
+.togit{
     float:right;
 }
