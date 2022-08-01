@@ -2,7 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-#top{
-    display:inline;
-}
