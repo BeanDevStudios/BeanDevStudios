@@ -8,3 +8,8 @@
     text-align:center;
     display:inline-block;
 }
+
+.fork{
+    float:right;
+    display:inline-block;
+}
