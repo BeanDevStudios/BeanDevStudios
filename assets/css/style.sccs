@@ -4,7 +4,6 @@
 @import "{{ site.theme }}";
 
 .header{
-    float:left;
     text-align:center;
     display:inline-block;
 }
