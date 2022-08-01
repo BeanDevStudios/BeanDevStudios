@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.mainTitle{
+    float:left;
+}
+
+.toGit{
+    float:right;
+}
