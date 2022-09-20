@@ -2,4 +2,4 @@
 ## Welcome to BeanDevStudios!
 
 ### Current Projects
-- No current Projects
+- Will be adding projects by end of day Friday (9/23/22)
