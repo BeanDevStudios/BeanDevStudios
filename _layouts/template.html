@@ -25,6 +25,9 @@
 
     <div class="wrapper">
       <section>
+          {% for page in site.pages %}
+          <a href={{ page.filename }}>{{ page.title }}</a>
+          {% endfor %}
         {{ content }}
         <div id="title">
           <hr>
