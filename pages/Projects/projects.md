@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Projects"
-permalink: /Projects/projects.md
+permalink: /pages/Projects/projects.md
 theme: jekyll-theme-midnight
 ---
 
