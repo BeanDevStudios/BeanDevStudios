@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default.html
 title: "Projects"
 permalink: /Projects/projects.md
 ---
