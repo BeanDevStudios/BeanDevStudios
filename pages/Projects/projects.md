@@ -1,7 +1,8 @@
 ---
-layout: default.html
+layout: page
 title: "Projects"
 permalink: /Projects/projects.md
+theme: jekyll-theme-midnight
 ---
 
 ### [Home](https://beandevstudios.com/) [Projects  ]() [About  ]()
