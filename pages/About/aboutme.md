@@ -22,7 +22,7 @@ filename: aboutme
 
 ### Work Experience
  - **IT Desktop Administrator Co-op** - Danis Construction, Miamisburg, Ohio
-  - May 2021 - Current
+   - May 2021 - Current
    - Provide technical assistance for the company and its employees including, but not limited to, hardware, software, identity, and security
    - Repair and rebuild custom C# applications that assist the company in tracking past construction projects
    - Research, write, and edit documentation, reports, presentations, along with presenting these works to other departments
