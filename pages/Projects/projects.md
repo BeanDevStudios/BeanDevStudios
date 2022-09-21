@@ -1,7 +1,8 @@
 ---
-title: "Projects"
-theme: jekyll-theme-midnight
----
+title: Projects
+layout: default
+filename: projects
+--- 
 
 ### [Home](https://beandevstudios.com/) [Projects  ]() [About  ]()
 ## Welcome to BeanDevStudios!
