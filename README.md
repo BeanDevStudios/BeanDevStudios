@@ -1,8 +1,3 @@
----
-title: BeanDevStudios
-layout: default
-filename: README
---- 
 ### [Home](https://beandevstudios.com/) [Projects](https://beandevstudios.com/pages/Projects/projects) [About](https://beandevstudios.com/pages/About/aboutme)
 ## Welcome to BeanDevStudios!
 
