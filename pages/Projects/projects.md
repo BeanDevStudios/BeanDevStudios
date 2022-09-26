@@ -3,7 +3,7 @@ title: Projects
 layout: default
 filename: projects
 --- 
-### [Home](https://beandevstudios.com/) [Projects](https://beandevstudios.com/pages/Projects/projects) [About](https://beandevstudios.com/pages/About/aboutme)
+### [Home](https://beandevstudios.com/) | [Projects](https://beandevstudios.com/pages/Projects/projects) | [About](https://beandevstudios.com/pages/About/aboutme)
 ## Projects
 - ### [Stab Stab](https://github.com/BeanDevStudios/UnityDungeonGameIso.git/)
   - Completion Goal: Summer 2022
