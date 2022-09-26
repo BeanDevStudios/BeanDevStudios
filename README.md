@@ -2,15 +2,14 @@
 ## Welcome to BeanDevStudios!
 
 ### Current Projects
-- Will be adding projects by end of day Friday (9/23/22)
-- #### Tree Simulator
+- #### [Tree Simulator](https://github.com/BeanDevStudios/TreeSimulator.git)
   - Completion Goal: Fall 2022
   - Class project for fall 2022
   - Platform: Unreal Engine
-  - Summary: 
+  - Summary: Be Tree... Follow the life cycle of a tree and help it to grow
   
-- #### Animal Villa
+- #### [Animal Villa](https://github.com/BeanDevStudios/AnimalVilla.git)
   - Completion Goal: Spring 2024
   - Capstone Project for The University of Cincinnati
-  - Platform: Undesided
-  - Summary:
+  - Platform: Pending
+  - Summary: A choose your own adventure game where you help your "friendly" neighborhood animals
